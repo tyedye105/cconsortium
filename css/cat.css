@@ -1,0 +1,23 @@
+.column {
+  border: 2px solid rgb(153, 153, 255);
+  padding: 15px;
+  margin: 12px;
+  width: 300px;
+  float: left;
+  background-color: #9092e3;
+}
+
+body {
+  background-image: url(http://wallpapercave.com/wp/pEeUsp1.jpg);
+}
+
+body h1 {
+  color:white;
+  text-align: center;
+
+}
+
+.column h1 {
+  color:black;
+  text-align: center;
+}
